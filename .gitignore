@@ -6,3 +6,4 @@ env/
 *.png
 *.jpeg
 docker-compose.yml
+logs/
