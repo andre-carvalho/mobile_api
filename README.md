@@ -1,4 +1,4 @@
-# The Filed Survey APIs
+# The Field Survey APIs
 
 An API with a set of end points to provide the following features: 
 - Receive instances of Survey forms as a JSON documents;
